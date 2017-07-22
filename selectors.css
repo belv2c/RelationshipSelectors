@@ -11,6 +11,36 @@ nav a {
 	padding: 20px;
 }
 
-.disabled{
+.disabled {
 	color: grey;
+}
+
+.disabled a {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+
+.promo {
+	font-weight: bold;
+	color: gold;
+}
+
+.imred {
+	color:red;
+}
+
+.imblue {
+	color:blue;
+}
+
+.redagain {
+	background-color:red;
+}
+
+.blueagain {
+	background-color:blue;
 }
