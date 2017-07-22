@@ -1,0 +1,16 @@
+header {
+	border: 1px solid black;
+}
+
+nav li {
+	list-style: none;
+	display: inline;
+}
+
+nav a {
+	padding: 20px;
+}
+
+.disabled{
+	color: grey;
+}
