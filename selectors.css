@@ -11,6 +11,11 @@ nav a {
 	padding: 20px;
 }
 
+span [type=text] {
+	height: 25px;
+
+}
+
 .disabled {
 	color: grey;
 }
@@ -43,4 +48,11 @@ nav a {
 
 .blueagain {
 	background-color:blue;
+}
+
+.grandparent h4{
+	border: 1px solid black;
+	border-radius: 25px;
+ {
+
 }
